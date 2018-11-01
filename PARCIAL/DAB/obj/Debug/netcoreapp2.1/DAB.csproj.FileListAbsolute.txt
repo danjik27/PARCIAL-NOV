@@ -1,0 +1,11 @@
+C:\Users\SHELSEA BLANCO\Desktop\TALLER\DAB\obj\Debug\netcoreapp2.1\DAB.csprojAssemblyReference.cache
+C:\Users\SHELSEA BLANCO\Desktop\TALLER\DAB\obj\Debug\netcoreapp2.1\DAB.csproj.CoreCompileInputs.cache
+C:\Users\SHELSEA BLANCO\Desktop\TALLER\DAB\obj\Debug\netcoreapp2.1\DAB.AssemblyInfoInputs.cache
+C:\Users\SHELSEA BLANCO\Desktop\TALLER\DAB\obj\Debug\netcoreapp2.1\DAB.AssemblyInfo.cs
+C:\Users\SHELSEA BLANCO\Desktop\TALLER\DAB\bin\Debug\netcoreapp2.1\DAB.deps.json
+C:\Users\SHELSEA BLANCO\Desktop\TALLER\DAB\bin\Debug\netcoreapp2.1\DAB.runtimeconfig.json
+C:\Users\SHELSEA BLANCO\Desktop\TALLER\DAB\bin\Debug\netcoreapp2.1\DAB.runtimeconfig.dev.json
+C:\Users\SHELSEA BLANCO\Desktop\TALLER\DAB\bin\Debug\netcoreapp2.1\DAB.dll
+C:\Users\SHELSEA BLANCO\Desktop\TALLER\DAB\bin\Debug\netcoreapp2.1\DAB.pdb
+C:\Users\SHELSEA BLANCO\Desktop\TALLER\DAB\obj\Debug\netcoreapp2.1\DAB.dll
+C:\Users\SHELSEA BLANCO\Desktop\TALLER\DAB\obj\Debug\netcoreapp2.1\DAB.pdb
